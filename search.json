@@ -1,0 +1,458 @@
+[
+  {
+    "objectID": "modules/02-module-two/01-lesson.html",
+    "href": "modules/02-module-two/01-lesson.html",
+    "title": "Lesson 2.1: Introduction",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nObjective one\nObjective two",
+    "crumbs": [
+      "Module 2",
+      "Lesson 2.1"
+    ]
+  },
+  {
+    "objectID": "modules/02-module-two/01-lesson.html#learning-objectives",
+    "href": "modules/02-module-two/01-lesson.html#learning-objectives",
+    "title": "Lesson 2.1: Introduction",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nObjective one\nObjective two",
+    "crumbs": [
+      "Module 2",
+      "Lesson 2.1"
+    ]
+  },
+  {
+    "objectID": "modules/02-module-two/01-lesson.html#content",
+    "href": "modules/02-module-two/01-lesson.html#content",
+    "title": "Lesson 2.1: Introduction",
+    "section": "Content",
+    "text": "Content\nStart with the foundational concepts for Module 2.\n\nSection One\nContent for section one.\n\n\nSection Two\nContent for section two.\n\n\n\n\n\n\nNote\n\n\n\nKey concept to highlight for learners.",
+    "crumbs": [
+      "Module 2",
+      "Lesson 2.1"
+    ]
+  },
+  {
+    "objectID": "modules/02-module-two/01-lesson.html#summary",
+    "href": "modules/02-module-two/01-lesson.html#summary",
+    "title": "Lesson 2.1: Introduction",
+    "section": "Summary",
+    "text": "Summary\nRecap the key points from this lesson.",
+    "crumbs": [
+      "Module 2",
+      "Lesson 2.1"
+    ]
+  },
+  {
+    "objectID": "modules/02-module-two/01-lesson.html#further-reading",
+    "href": "modules/02-module-two/01-lesson.html#further-reading",
+    "title": "Lesson 2.1: Introduction",
+    "section": "Further Reading",
+    "text": "Further Reading\n\nResource one\nResource two",
+    "crumbs": [
+      "Module 2",
+      "Lesson 2.1"
+    ]
+  },
+  {
+    "objectID": "modules/02-module-two/02-lesson.html",
+    "href": "modules/02-module-two/02-lesson.html",
+    "title": "Lesson 2.2: Core Concepts",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nObjective one\nObjective two",
+    "crumbs": [
+      "Module 2",
+      "Lesson 2.2"
+    ]
+  },
+  {
+    "objectID": "modules/02-module-two/02-lesson.html#learning-objectives",
+    "href": "modules/02-module-two/02-lesson.html#learning-objectives",
+    "title": "Lesson 2.2: Core Concepts",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nObjective one\nObjective two",
+    "crumbs": [
+      "Module 2",
+      "Lesson 2.2"
+    ]
+  },
+  {
+    "objectID": "modules/02-module-two/02-lesson.html#content",
+    "href": "modules/02-module-two/02-lesson.html#content",
+    "title": "Lesson 2.2: Core Concepts",
+    "section": "Content",
+    "text": "Content\nBuild on Lesson 2.1 here.\n\nSection One\nContent for section one.\n\n\nSection Two\nContent for section two.\n\n\n\n\n\n\nNote\n\n\n\nKey concept to highlight for learners.",
+    "crumbs": [
+      "Module 2",
+      "Lesson 2.2"
+    ]
+  },
+  {
+    "objectID": "modules/02-module-two/02-lesson.html#summary",
+    "href": "modules/02-module-two/02-lesson.html#summary",
+    "title": "Lesson 2.2: Core Concepts",
+    "section": "Summary",
+    "text": "Summary\nRecap the key points from this lesson.",
+    "crumbs": [
+      "Module 2",
+      "Lesson 2.2"
+    ]
+  },
+  {
+    "objectID": "modules/02-module-two/02-lesson.html#further-reading",
+    "href": "modules/02-module-two/02-lesson.html#further-reading",
+    "title": "Lesson 2.2: Core Concepts",
+    "section": "Further Reading",
+    "text": "Further Reading\n\nResource one\nResource two",
+    "crumbs": [
+      "Module 2",
+      "Lesson 2.2"
+    ]
+  },
+  {
+    "objectID": "modules/01-module-one/assessment.html",
+    "href": "modules/01-module-one/assessment.html",
+    "title": "Module 1 Assessment",
+    "section": "",
+    "text": "Test your understanding of Module 1 content. Replace the placeholder text in each question with content relevant to your module topic. The option marked ‘.correct-choice’ is revealed as correct when learners submit.\n\nWhat is the definition of [key concept] from this module?\n\n\n\n\n ✗An unrelated process with no bearing on the topic\n\n\n ✓[Write the correct definition here]\n\n\n ✗A simplified version that ignores core principles\n\n\n ✗A legacy approach no longer in use\n\n\n\n\n\n\n\nWhich of the following best describes [process or method] covered in this module?\n\n\n\n\n ✓[Write the correct description here]\n\n\n ✗A technique used only in advanced scenarios\n\n\n ✗An optional step that can usually be skipped\n\n\n ✗A method applicable only to a different domain\n\n\n\n\n\n\n\nWhat is the primary benefit of applying [technique] in [context]?\n\n\n\n\n ✗It eliminates the need for all other steps\n\n\n ✗It reduces accuracy in favour of speed\n\n\n ✓[Write the correct benefit here]\n\n\n ✗It is only relevant to large-scale organisations\n\n\n\n\n\n\n\nIn the context of this module, what does [acronym or term] stand for?\n\n\n\n\n ✗[Incorrect expansion A]\n\n\n ✗[Incorrect expansion B]\n\n\n ✗[Incorrect expansion C]\n\n\n ✓[Write the correct expansion here]\n\n\n\n\n\n\n\nWhich statement about [concept] is correct?\n\n\n\n\n ✗It applies only under very specific conditions that are rarely met\n\n\n ✓[Write the correct statement here]\n\n\n ✗It was introduced in [wrong era or context]\n\n\n ✗It contradicts the principles discussed in this module\n\n\n\n\n\n\n\nWhat is the correct sequence of steps for [process]?\n\n\n\n\n ✗Step C → Step A → Step B → Step D\n\n\n ✗Step B → Step D → Step A → Step C\n\n\n ✓[Write the correct sequence here]\n\n\n ✗The steps can be performed in any order\n\n\n\n\n\n\n\nWhich tool or technique is most appropriate for [scenario described in this module]?\n\n\n\n\n ✗[Inappropriate tool A]\n\n\n ✗[Inappropriate tool B]\n\n\n ✓[Write the most appropriate tool here]\n\n\n ✗None — this scenario does not require a specific tool\n\n\n\n\n\n\n\nWhat would happen if [key step or principle] were omitted from [process]?\n\n\n\n\n ✓[Write the correct consequence here]\n\n\n ✗No noticeable difference — the step is redundant\n\n\n ✗The process would complete faster with fewer errors\n\n\n ✗The output would remain valid but formatted differently\n\n\n\n\n\n\n\nWhich of the following is an example of [concept] as discussed in this module?\n\n\n\n\n ✗[Incorrect example A]\n\n\n ✗[Incorrect example B]\n\n\n ✗[Incorrect example C]\n\n\n ✓[Write the correct example here]\n\n\n\n\n\n\n\nA practitioner encounters [realistic scenario]. Based on this module, what is the best course of action?\n\n\n\n\n ✗Escalate immediately without attempting any initial steps\n\n\n ✓[Write the correct course of action here]\n\n\n ✗Apply [incorrect approach] and document the outcome\n\n\n ✗Defer the decision until more data is available",
+    "crumbs": [
+      "Module 1",
+      "Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/01-module-one/assessment.html#module-1-assessment",
+    "href": "modules/01-module-one/assessment.html#module-1-assessment",
+    "title": "Module 1 Assessment",
+    "section": "",
+    "text": "Test your understanding of Module 1 content. Replace the placeholder text in each question with content relevant to your module topic. The option marked ‘.correct-choice’ is revealed as correct when learners submit.\n\nWhat is the definition of [key concept] from this module?\n\n\n\n\n ✗An unrelated process with no bearing on the topic\n\n\n ✓[Write the correct definition here]\n\n\n ✗A simplified version that ignores core principles\n\n\n ✗A legacy approach no longer in use\n\n\n\n\n\n\n\nWhich of the following best describes [process or method] covered in this module?\n\n\n\n\n ✓[Write the correct description here]\n\n\n ✗A technique used only in advanced scenarios\n\n\n ✗An optional step that can usually be skipped\n\n\n ✗A method applicable only to a different domain\n\n\n\n\n\n\n\nWhat is the primary benefit of applying [technique] in [context]?\n\n\n\n\n ✗It eliminates the need for all other steps\n\n\n ✗It reduces accuracy in favour of speed\n\n\n ✓[Write the correct benefit here]\n\n\n ✗It is only relevant to large-scale organisations\n\n\n\n\n\n\n\nIn the context of this module, what does [acronym or term] stand for?\n\n\n\n\n ✗[Incorrect expansion A]\n\n\n ✗[Incorrect expansion B]\n\n\n ✗[Incorrect expansion C]\n\n\n ✓[Write the correct expansion here]\n\n\n\n\n\n\n\nWhich statement about [concept] is correct?\n\n\n\n\n ✗It applies only under very specific conditions that are rarely met\n\n\n ✓[Write the correct statement here]\n\n\n ✗It was introduced in [wrong era or context]\n\n\n ✗It contradicts the principles discussed in this module\n\n\n\n\n\n\n\nWhat is the correct sequence of steps for [process]?\n\n\n\n\n ✗Step C → Step A → Step B → Step D\n\n\n ✗Step B → Step D → Step A → Step C\n\n\n ✓[Write the correct sequence here]\n\n\n ✗The steps can be performed in any order\n\n\n\n\n\n\n\nWhich tool or technique is most appropriate for [scenario described in this module]?\n\n\n\n\n ✗[Inappropriate tool A]\n\n\n ✗[Inappropriate tool B]\n\n\n ✓[Write the most appropriate tool here]\n\n\n ✗None — this scenario does not require a specific tool\n\n\n\n\n\n\n\nWhat would happen if [key step or principle] were omitted from [process]?\n\n\n\n\n ✓[Write the correct consequence here]\n\n\n ✗No noticeable difference — the step is redundant\n\n\n ✗The process would complete faster with fewer errors\n\n\n ✗The output would remain valid but formatted differently\n\n\n\n\n\n\n\nWhich of the following is an example of [concept] as discussed in this module?\n\n\n\n\n ✗[Incorrect example A]\n\n\n ✗[Incorrect example B]\n\n\n ✗[Incorrect example C]\n\n\n ✓[Write the correct example here]\n\n\n\n\n\n\n\nA practitioner encounters [realistic scenario]. Based on this module, what is the best course of action?\n\n\n\n\n ✗Escalate immediately without attempting any initial steps\n\n\n ✓[Write the correct course of action here]\n\n\n ✗Apply [incorrect approach] and document the outcome\n\n\n ✗Defer the decision until more data is available",
+    "crumbs": [
+      "Module 1",
+      "Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/03-module-three/01-lesson.html",
+    "href": "modules/03-module-three/01-lesson.html",
+    "title": "Lesson 3.1: Introduction",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nObjective one\nObjective two",
+    "crumbs": [
+      "Module 3",
+      "Lesson 3.1"
+    ]
+  },
+  {
+    "objectID": "modules/03-module-three/01-lesson.html#learning-objectives",
+    "href": "modules/03-module-three/01-lesson.html#learning-objectives",
+    "title": "Lesson 3.1: Introduction",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nObjective one\nObjective two",
+    "crumbs": [
+      "Module 3",
+      "Lesson 3.1"
+    ]
+  },
+  {
+    "objectID": "modules/03-module-three/01-lesson.html#content",
+    "href": "modules/03-module-three/01-lesson.html#content",
+    "title": "Lesson 3.1: Introduction",
+    "section": "Content",
+    "text": "Content\nStart with the foundational concepts for Module 3.\n\nSection One\nContent for section one.\n\n\nSection Two\nContent for section two.\n\n\n\n\n\n\nNote\n\n\n\nKey concept to highlight for learners.",
+    "crumbs": [
+      "Module 3",
+      "Lesson 3.1"
+    ]
+  },
+  {
+    "objectID": "modules/03-module-three/01-lesson.html#summary",
+    "href": "modules/03-module-three/01-lesson.html#summary",
+    "title": "Lesson 3.1: Introduction",
+    "section": "Summary",
+    "text": "Summary\nRecap the key points from this lesson.",
+    "crumbs": [
+      "Module 3",
+      "Lesson 3.1"
+    ]
+  },
+  {
+    "objectID": "modules/03-module-three/01-lesson.html#further-reading",
+    "href": "modules/03-module-three/01-lesson.html#further-reading",
+    "title": "Lesson 3.1: Introduction",
+    "section": "Further Reading",
+    "text": "Further Reading\n\nResource one\nResource two",
+    "crumbs": [
+      "Module 3",
+      "Lesson 3.1"
+    ]
+  },
+  {
+    "objectID": "modules/03-module-three/02-lesson.html",
+    "href": "modules/03-module-three/02-lesson.html",
+    "title": "Lesson 3.2: Core Concepts",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nObjective one\nObjective two",
+    "crumbs": [
+      "Module 3",
+      "Lesson 3.2"
+    ]
+  },
+  {
+    "objectID": "modules/03-module-three/02-lesson.html#learning-objectives",
+    "href": "modules/03-module-three/02-lesson.html#learning-objectives",
+    "title": "Lesson 3.2: Core Concepts",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nObjective one\nObjective two",
+    "crumbs": [
+      "Module 3",
+      "Lesson 3.2"
+    ]
+  },
+  {
+    "objectID": "modules/03-module-three/02-lesson.html#content",
+    "href": "modules/03-module-three/02-lesson.html#content",
+    "title": "Lesson 3.2: Core Concepts",
+    "section": "Content",
+    "text": "Content\nBuild on Lesson 3.1 here.\n\nSection One\nContent for section one.\n\n\nSection Two\nContent for section two.\n\n\n\n\n\n\nNote\n\n\n\nKey concept to highlight for learners.",
+    "crumbs": [
+      "Module 3",
+      "Lesson 3.2"
+    ]
+  },
+  {
+    "objectID": "modules/03-module-three/02-lesson.html#summary",
+    "href": "modules/03-module-three/02-lesson.html#summary",
+    "title": "Lesson 3.2: Core Concepts",
+    "section": "Summary",
+    "text": "Summary\nRecap the key points from this lesson.",
+    "crumbs": [
+      "Module 3",
+      "Lesson 3.2"
+    ]
+  },
+  {
+    "objectID": "modules/03-module-three/02-lesson.html#further-reading",
+    "href": "modules/03-module-three/02-lesson.html#further-reading",
+    "title": "Lesson 3.2: Core Concepts",
+    "section": "Further Reading",
+    "text": "Further Reading\n\nResource one\nResource two",
+    "crumbs": [
+      "Module 3",
+      "Lesson 3.2"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "test 2",
+    "section": "",
+    "text": "Course Cover",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#course-overview",
+    "href": "index.html#course-overview",
+    "title": "test 2",
+    "section": "Course Overview",
+    "text": "Course Overview\nProvide a description of this course — who it’s for, what topics it covers, and why it matters.",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#who-this-is-for",
+    "href": "index.html#who-this-is-for",
+    "title": "test 2",
+    "section": "Who This Is For",
+    "text": "Who This Is For\nBeginners — no prior experience required.",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#learning-outcomes",
+    "href": "index.html#learning-outcomes",
+    "title": "test 2",
+    "section": "Learning Outcomes",
+    "text": "Learning Outcomes\nBy the end of this course, students will be able to:\n\nOutcome one (use a verb from Bloom’s taxonomy — e.g. explain, apply, analyse)\nOutcome two\nOutcome three",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#course-structure",
+    "href": "index.html#course-structure",
+    "title": "test 2",
+    "section": "Course Structure",
+    "text": "Course Structure\nDelivery: Self-paced online\n\n\n\nModule\nTopic\nDuration\n\n\n\n\n1\nModule 1\nTBD\n\n\n2\nModule 2\nTBD\n\n\n3\nModule 3\nTBD",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#assessment",
+    "href": "index.html#assessment",
+    "title": "test 2",
+    "section": "Assessment",
+    "text": "Assessment\nDescribe how students will be assessed (formative quizzes, final project, etc.).",
+    "crumbs": [
+      "Course Overview"
+    ]
+  },
+  {
+    "objectID": "modules/03-module-three/assessment.html",
+    "href": "modules/03-module-three/assessment.html",
+    "title": "Module 3 Assessment",
+    "section": "",
+    "text": "Test your understanding of Module 3 content. Replace the placeholder text in each question with content relevant to your module topic. The option marked ‘.correct-choice’ is revealed as correct when learners submit.\n\nWhat is the definition of [key concept] from this module?\n\n\n\n\n ✗An unrelated process with no bearing on the topic\n\n\n ✓[Write the correct definition here]\n\n\n ✗A simplified version that ignores core principles\n\n\n ✗A legacy approach no longer in use\n\n\n\n\n\n\n\nWhich of the following best describes [process or method] covered in this module?\n\n\n\n\n ✓[Write the correct description here]\n\n\n ✗A technique used only in advanced scenarios\n\n\n ✗An optional step that can usually be skipped\n\n\n ✗A method applicable only to a different domain\n\n\n\n\n\n\n\nWhat is the primary benefit of applying [technique] in [context]?\n\n\n\n\n ✗It eliminates the need for all other steps\n\n\n ✗It reduces accuracy in favour of speed\n\n\n ✓[Write the correct benefit here]\n\n\n ✗It is only relevant to large-scale organisations\n\n\n\n\n\n\n\nIn the context of this module, what does [acronym or term] stand for?\n\n\n\n\n ✗[Incorrect expansion A]\n\n\n ✗[Incorrect expansion B]\n\n\n ✗[Incorrect expansion C]\n\n\n ✓[Write the correct expansion here]\n\n\n\n\n\n\n\nWhich statement about [concept] is correct?\n\n\n\n\n ✗It applies only under very specific conditions that are rarely met\n\n\n ✓[Write the correct statement here]\n\n\n ✗It was introduced in [wrong era or context]\n\n\n ✗It contradicts the principles discussed in this module\n\n\n\n\n\n\n\nWhat is the correct sequence of steps for [process]?\n\n\n\n\n ✗Step C → Step A → Step B → Step D\n\n\n ✗Step B → Step D → Step A → Step C\n\n\n ✓[Write the correct sequence here]\n\n\n ✗The steps can be performed in any order\n\n\n\n\n\n\n\nWhich tool or technique is most appropriate for [scenario described in this module]?\n\n\n\n\n ✗[Inappropriate tool A]\n\n\n ✗[Inappropriate tool B]\n\n\n ✓[Write the most appropriate tool here]\n\n\n ✗None — this scenario does not require a specific tool\n\n\n\n\n\n\n\nWhat would happen if [key step or principle] were omitted from [process]?\n\n\n\n\n ✓[Write the correct consequence here]\n\n\n ✗No noticeable difference — the step is redundant\n\n\n ✗The process would complete faster with fewer errors\n\n\n ✗The output would remain valid but formatted differently\n\n\n\n\n\n\n\nWhich of the following is an example of [concept] as discussed in this module?\n\n\n\n\n ✗[Incorrect example A]\n\n\n ✗[Incorrect example B]\n\n\n ✗[Incorrect example C]\n\n\n ✓[Write the correct example here]\n\n\n\n\n\n\n\nA practitioner encounters [realistic scenario]. Based on this module, what is the best course of action?\n\n\n\n\n ✗Escalate immediately without attempting any initial steps\n\n\n ✓[Write the correct course of action here]\n\n\n ✗Apply [incorrect approach] and document the outcome\n\n\n ✗Defer the decision until more data is available",
+    "crumbs": [
+      "Module 3",
+      "Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/03-module-three/assessment.html#module-3-assessment",
+    "href": "modules/03-module-three/assessment.html#module-3-assessment",
+    "title": "Module 3 Assessment",
+    "section": "",
+    "text": "Test your understanding of Module 3 content. Replace the placeholder text in each question with content relevant to your module topic. The option marked ‘.correct-choice’ is revealed as correct when learners submit.\n\nWhat is the definition of [key concept] from this module?\n\n\n\n\n ✗An unrelated process with no bearing on the topic\n\n\n ✓[Write the correct definition here]\n\n\n ✗A simplified version that ignores core principles\n\n\n ✗A legacy approach no longer in use\n\n\n\n\n\n\n\nWhich of the following best describes [process or method] covered in this module?\n\n\n\n\n ✓[Write the correct description here]\n\n\n ✗A technique used only in advanced scenarios\n\n\n ✗An optional step that can usually be skipped\n\n\n ✗A method applicable only to a different domain\n\n\n\n\n\n\n\nWhat is the primary benefit of applying [technique] in [context]?\n\n\n\n\n ✗It eliminates the need for all other steps\n\n\n ✗It reduces accuracy in favour of speed\n\n\n ✓[Write the correct benefit here]\n\n\n ✗It is only relevant to large-scale organisations\n\n\n\n\n\n\n\nIn the context of this module, what does [acronym or term] stand for?\n\n\n\n\n ✗[Incorrect expansion A]\n\n\n ✗[Incorrect expansion B]\n\n\n ✗[Incorrect expansion C]\n\n\n ✓[Write the correct expansion here]\n\n\n\n\n\n\n\nWhich statement about [concept] is correct?\n\n\n\n\n ✗It applies only under very specific conditions that are rarely met\n\n\n ✓[Write the correct statement here]\n\n\n ✗It was introduced in [wrong era or context]\n\n\n ✗It contradicts the principles discussed in this module\n\n\n\n\n\n\n\nWhat is the correct sequence of steps for [process]?\n\n\n\n\n ✗Step C → Step A → Step B → Step D\n\n\n ✗Step B → Step D → Step A → Step C\n\n\n ✓[Write the correct sequence here]\n\n\n ✗The steps can be performed in any order\n\n\n\n\n\n\n\nWhich tool or technique is most appropriate for [scenario described in this module]?\n\n\n\n\n ✗[Inappropriate tool A]\n\n\n ✗[Inappropriate tool B]\n\n\n ✓[Write the most appropriate tool here]\n\n\n ✗None — this scenario does not require a specific tool\n\n\n\n\n\n\n\nWhat would happen if [key step or principle] were omitted from [process]?\n\n\n\n\n ✓[Write the correct consequence here]\n\n\n ✗No noticeable difference — the step is redundant\n\n\n ✗The process would complete faster with fewer errors\n\n\n ✗The output would remain valid but formatted differently\n\n\n\n\n\n\n\nWhich of the following is an example of [concept] as discussed in this module?\n\n\n\n\n ✗[Incorrect example A]\n\n\n ✗[Incorrect example B]\n\n\n ✗[Incorrect example C]\n\n\n ✓[Write the correct example here]\n\n\n\n\n\n\n\nA practitioner encounters [realistic scenario]. Based on this module, what is the best course of action?\n\n\n\n\n ✗Escalate immediately without attempting any initial steps\n\n\n ✓[Write the correct course of action here]\n\n\n ✗Apply [incorrect approach] and document the outcome\n\n\n ✗Defer the decision until more data is available",
+    "crumbs": [
+      "Module 3",
+      "Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/01-module-one/02-lesson.html",
+    "href": "modules/01-module-one/02-lesson.html",
+    "title": "Lesson 1.2: Core Concepts",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nObjective one\nObjective two",
+    "crumbs": [
+      "Module 1",
+      "Lesson 1.2"
+    ]
+  },
+  {
+    "objectID": "modules/01-module-one/02-lesson.html#learning-objectives",
+    "href": "modules/01-module-one/02-lesson.html#learning-objectives",
+    "title": "Lesson 1.2: Core Concepts",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nObjective one\nObjective two",
+    "crumbs": [
+      "Module 1",
+      "Lesson 1.2"
+    ]
+  },
+  {
+    "objectID": "modules/01-module-one/02-lesson.html#content",
+    "href": "modules/01-module-one/02-lesson.html#content",
+    "title": "Lesson 1.2: Core Concepts",
+    "section": "Content",
+    "text": "Content\nBuild on Lesson 1.1 here.\n\nSection One\nContent for section one.\n\n\nSection Two\nContent for section two.\n\n\n\n\n\n\nNote\n\n\n\nKey concept to highlight for learners.",
+    "crumbs": [
+      "Module 1",
+      "Lesson 1.2"
+    ]
+  },
+  {
+    "objectID": "modules/01-module-one/02-lesson.html#summary",
+    "href": "modules/01-module-one/02-lesson.html#summary",
+    "title": "Lesson 1.2: Core Concepts",
+    "section": "Summary",
+    "text": "Summary\nRecap the key points from this lesson.",
+    "crumbs": [
+      "Module 1",
+      "Lesson 1.2"
+    ]
+  },
+  {
+    "objectID": "modules/01-module-one/02-lesson.html#further-reading",
+    "href": "modules/01-module-one/02-lesson.html#further-reading",
+    "title": "Lesson 1.2: Core Concepts",
+    "section": "Further Reading",
+    "text": "Further Reading\n\nResource one\nResource two",
+    "crumbs": [
+      "Module 1",
+      "Lesson 1.2"
+    ]
+  },
+  {
+    "objectID": "modules/01-module-one/01-lesson.html",
+    "href": "modules/01-module-one/01-lesson.html",
+    "title": "Lesson 1.1: Introduction",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nObjective one\nObjective two",
+    "crumbs": [
+      "Module 1",
+      "Lesson 1.1"
+    ]
+  },
+  {
+    "objectID": "modules/01-module-one/01-lesson.html#learning-objectives",
+    "href": "modules/01-module-one/01-lesson.html#learning-objectives",
+    "title": "Lesson 1.1: Introduction",
+    "section": "",
+    "text": "By the end of this lesson, you will be able to:\n\nObjective one\nObjective two",
+    "crumbs": [
+      "Module 1",
+      "Lesson 1.1"
+    ]
+  },
+  {
+    "objectID": "modules/01-module-one/01-lesson.html#content",
+    "href": "modules/01-module-one/01-lesson.html#content",
+    "title": "Lesson 1.1: Introduction",
+    "section": "Content",
+    "text": "Content\nStart with the foundational concepts for Module 1.\n\nSection One\nContent for section one.\n\n\nSection Two\nContent for section two.\n\n\n\n\n\n\nNote\n\n\n\nKey concept to highlight for learners.",
+    "crumbs": [
+      "Module 1",
+      "Lesson 1.1"
+    ]
+  },
+  {
+    "objectID": "modules/01-module-one/01-lesson.html#summary",
+    "href": "modules/01-module-one/01-lesson.html#summary",
+    "title": "Lesson 1.1: Introduction",
+    "section": "Summary",
+    "text": "Summary\nRecap the key points from this lesson.",
+    "crumbs": [
+      "Module 1",
+      "Lesson 1.1"
+    ]
+  },
+  {
+    "objectID": "modules/01-module-one/01-lesson.html#further-reading",
+    "href": "modules/01-module-one/01-lesson.html#further-reading",
+    "title": "Lesson 1.1: Introduction",
+    "section": "Further Reading",
+    "text": "Further Reading\n\nResource one\nResource two",
+    "crumbs": [
+      "Module 1",
+      "Lesson 1.1"
+    ]
+  },
+  {
+    "objectID": "modules/02-module-two/assessment.html",
+    "href": "modules/02-module-two/assessment.html",
+    "title": "Module 2 Assessment",
+    "section": "",
+    "text": "Test your understanding of Module 2 content. Replace the placeholder text in each question with content relevant to your module topic. The option marked ‘.correct-choice’ is revealed as correct when learners submit.\n\nWhat is the definition of [key concept] from this module?\n\n\n\n\n ✗An unrelated process with no bearing on the topic\n\n\n ✓[Write the correct definition here]\n\n\n ✗A simplified version that ignores core principles\n\n\n ✗A legacy approach no longer in use\n\n\n\n\n\n\n\nWhich of the following best describes [process or method] covered in this module?\n\n\n\n\n ✓[Write the correct description here]\n\n\n ✗A technique used only in advanced scenarios\n\n\n ✗An optional step that can usually be skipped\n\n\n ✗A method applicable only to a different domain\n\n\n\n\n\n\n\nWhat is the primary benefit of applying [technique] in [context]?\n\n\n\n\n ✗It eliminates the need for all other steps\n\n\n ✗It reduces accuracy in favour of speed\n\n\n ✓[Write the correct benefit here]\n\n\n ✗It is only relevant to large-scale organisations\n\n\n\n\n\n\n\nIn the context of this module, what does [acronym or term] stand for?\n\n\n\n\n ✗[Incorrect expansion A]\n\n\n ✗[Incorrect expansion B]\n\n\n ✗[Incorrect expansion C]\n\n\n ✓[Write the correct expansion here]\n\n\n\n\n\n\n\nWhich statement about [concept] is correct?\n\n\n\n\n ✗It applies only under very specific conditions that are rarely met\n\n\n ✓[Write the correct statement here]\n\n\n ✗It was introduced in [wrong era or context]\n\n\n ✗It contradicts the principles discussed in this module\n\n\n\n\n\n\n\nWhat is the correct sequence of steps for [process]?\n\n\n\n\n ✗Step C → Step A → Step B → Step D\n\n\n ✗Step B → Step D → Step A → Step C\n\n\n ✓[Write the correct sequence here]\n\n\n ✗The steps can be performed in any order\n\n\n\n\n\n\n\nWhich tool or technique is most appropriate for [scenario described in this module]?\n\n\n\n\n ✗[Inappropriate tool A]\n\n\n ✗[Inappropriate tool B]\n\n\n ✓[Write the most appropriate tool here]\n\n\n ✗None — this scenario does not require a specific tool\n\n\n\n\n\n\n\nWhat would happen if [key step or principle] were omitted from [process]?\n\n\n\n\n ✓[Write the correct consequence here]\n\n\n ✗No noticeable difference — the step is redundant\n\n\n ✗The process would complete faster with fewer errors\n\n\n ✗The output would remain valid but formatted differently\n\n\n\n\n\n\n\nWhich of the following is an example of [concept] as discussed in this module?\n\n\n\n\n ✗[Incorrect example A]\n\n\n ✗[Incorrect example B]\n\n\n ✗[Incorrect example C]\n\n\n ✓[Write the correct example here]\n\n\n\n\n\n\n\nA practitioner encounters [realistic scenario]. Based on this module, what is the best course of action?\n\n\n\n\n ✗Escalate immediately without attempting any initial steps\n\n\n ✓[Write the correct course of action here]\n\n\n ✗Apply [incorrect approach] and document the outcome\n\n\n ✗Defer the decision until more data is available",
+    "crumbs": [
+      "Module 2",
+      "Assessment"
+    ]
+  },
+  {
+    "objectID": "modules/02-module-two/assessment.html#module-2-assessment",
+    "href": "modules/02-module-two/assessment.html#module-2-assessment",
+    "title": "Module 2 Assessment",
+    "section": "",
+    "text": "Test your understanding of Module 2 content. Replace the placeholder text in each question with content relevant to your module topic. The option marked ‘.correct-choice’ is revealed as correct when learners submit.\n\nWhat is the definition of [key concept] from this module?\n\n\n\n\n ✗An unrelated process with no bearing on the topic\n\n\n ✓[Write the correct definition here]\n\n\n ✗A simplified version that ignores core principles\n\n\n ✗A legacy approach no longer in use\n\n\n\n\n\n\n\nWhich of the following best describes [process or method] covered in this module?\n\n\n\n\n ✓[Write the correct description here]\n\n\n ✗A technique used only in advanced scenarios\n\n\n ✗An optional step that can usually be skipped\n\n\n ✗A method applicable only to a different domain\n\n\n\n\n\n\n\nWhat is the primary benefit of applying [technique] in [context]?\n\n\n\n\n ✗It eliminates the need for all other steps\n\n\n ✗It reduces accuracy in favour of speed\n\n\n ✓[Write the correct benefit here]\n\n\n ✗It is only relevant to large-scale organisations\n\n\n\n\n\n\n\nIn the context of this module, what does [acronym or term] stand for?\n\n\n\n\n ✗[Incorrect expansion A]\n\n\n ✗[Incorrect expansion B]\n\n\n ✗[Incorrect expansion C]\n\n\n ✓[Write the correct expansion here]\n\n\n\n\n\n\n\nWhich statement about [concept] is correct?\n\n\n\n\n ✗It applies only under very specific conditions that are rarely met\n\n\n ✓[Write the correct statement here]\n\n\n ✗It was introduced in [wrong era or context]\n\n\n ✗It contradicts the principles discussed in this module\n\n\n\n\n\n\n\nWhat is the correct sequence of steps for [process]?\n\n\n\n\n ✗Step C → Step A → Step B → Step D\n\n\n ✗Step B → Step D → Step A → Step C\n\n\n ✓[Write the correct sequence here]\n\n\n ✗The steps can be performed in any order\n\n\n\n\n\n\n\nWhich tool or technique is most appropriate for [scenario described in this module]?\n\n\n\n\n ✗[Inappropriate tool A]\n\n\n ✗[Inappropriate tool B]\n\n\n ✓[Write the most appropriate tool here]\n\n\n ✗None — this scenario does not require a specific tool\n\n\n\n\n\n\n\nWhat would happen if [key step or principle] were omitted from [process]?\n\n\n\n\n ✓[Write the correct consequence here]\n\n\n ✗No noticeable difference — the step is redundant\n\n\n ✗The process would complete faster with fewer errors\n\n\n ✗The output would remain valid but formatted differently\n\n\n\n\n\n\n\nWhich of the following is an example of [concept] as discussed in this module?\n\n\n\n\n ✗[Incorrect example A]\n\n\n ✗[Incorrect example B]\n\n\n ✗[Incorrect example C]\n\n\n ✓[Write the correct example here]\n\n\n\n\n\n\n\nA practitioner encounters [realistic scenario]. Based on this module, what is the best course of action?\n\n\n\n\n ✗Escalate immediately without attempting any initial steps\n\n\n ✓[Write the correct course of action here]\n\n\n ✗Apply [incorrect approach] and document the outcome\n\n\n ✗Defer the decision until more data is available",
+    "crumbs": [
+      "Module 2",
+      "Assessment"
+    ]
+  }
+]
